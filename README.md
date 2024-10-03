@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+
+[![An image of @likeawednesday's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/likeawednesday)](https://holopin.io/@likeawednesday)
+
+
 <!--
 **likeawednesday/likeawednesday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
